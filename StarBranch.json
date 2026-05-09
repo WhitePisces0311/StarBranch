@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Loskh",
+    "Name": "StarlightBreaker",
+    "Punchline": "关闭屏蔽词过滤,并特殊显示聊天频道或招募板上发出的屏蔽词",
+    "Description": "关闭屏蔽词过滤,并特殊显示聊天频道或招募板上发出的屏蔽词",
+    "Tags": [
+      "Loskh",
+      "Breaker",
+      "plugin"
+    ],
+    "InternalName": "StarlightBreaker",
+    "AssemblyVersion": "2.15.0.0,
+    "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ottercorp/PluginDistD17/refs/heads/main/stable/StarlightBreaker/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ottercorp/PluginDistD17/refs/heads/main/stable/StarlightBreaker/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ottercorp/PluginDistD17/refs/heads/main/testing-live/StarlightBreaker/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/ottercorp/PluginDistD17/refs/heads/main/stable/StarlightBreaker/images/icon.png"
+  }
+]
