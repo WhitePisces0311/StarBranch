@@ -1,12 +1,12 @@
 [
     {
-        "Author":  "ReMakePlace Maintainers, QiongHHHZZZ(汉化\u0026适配)",
-        "Name":  "ReMakePlace Plugin",
-        "InternalName":  "ReMakePlacePlugin",
-        "AssemblyVersion":  "7.5.1.0",
-        "Description":  "Automatically save \u0026 load interior and exterior house layouts. Import/export layouts from the ReMakePlace program.",
+        "Author":  "Loskh",
+        "Name":  "StarlightBreaker",
+        "InternalName":  "StarlightBreaker",
+        "AssemblyVersion":  "2.15.0.0",
+        "Description":  "关闭屏蔽词过滤,并特殊显示聊天频道或招募板上发出的屏蔽词",
         "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/QiongHHHZZZ/plugin",
+        "RepoUrl":  "https://github.com/Loskh/StarlightBreaker",
         "Tags":  [
                      "makeplace",
                      "housing",
@@ -16,11 +16,11 @@
                  ],
         "DalamudApiLevel":  15,
         "LoadPriority":  0,
-        "IconUrl":  "https://raw.githubusercontent.com/QiongHHHZZZ/plugin/master/icon.png",
-        "Punchline":  "适配7.5.1.0可用",
+        "IconUrl":  "https://raw.githubusercontent.com/ottercorp/PluginDistD17/refs/heads/main/stable/StarlightBreaker/images/icon.png",
+        "Punchline":  "关闭屏蔽词过滤,并特殊显示聊天频道或招募板上发出的屏蔽词",
         "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://github.com/QiongHHHZZZ/plugin/releases/download/v7.5.1.0/ReMakePlacePlugin.zip",
-        "DownloadLinkUpdate":  "https://github.com/QiongHHHZZZ/plugin/releases/download/v7.5.1.0/ReMakePlacePlugin.zip"
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/WhitePisces0311/StarBranch/main/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/WhitePisces0311/StarBranch/main/latest.zip"
     },
   {
     "Author": "Loskh",
